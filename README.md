@@ -1,3 +1,7 @@
+# Final Project for Distributed Systems Course
+
+This repository contains the final project completed as part of my Distributed Systems course at TUKE. The project focuses on the implementation of a blockchain system following the assignment guidelines. The blockchain is programmed using Node.js for backend functionalities and React for the frontend.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
