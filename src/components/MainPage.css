@@ -1,0 +1,57 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f4f7f6;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+.MainPage {
+  padding: 20px;
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.MainPage h1,
+.MainPage h2 {
+  color: #2c3e50;
+}
+
+.MainPage button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.MainPage button:hover {
+  background-color: #2980b9;
+}
+
+.NodeList,
+.Transaction,
+.Blockchain {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #ecf0f1;
+  border-radius: 5px;
+}
+
+.NodeItem,
+.TransactionItem,
+.BlockItem {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #bdc3c7;
+  border-radius: 5px;
+}
